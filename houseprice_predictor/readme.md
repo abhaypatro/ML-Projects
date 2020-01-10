@@ -1,1 +1,1 @@
-A houseprice_predictor usinf multiple regression
+A houseprice_predictor using multiple regression
